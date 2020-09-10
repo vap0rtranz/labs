@@ -13,4 +13,4 @@ spec:
   placement:
     placementRef:
       kind: PlacementRule
-      name: aws-clusters
+      name: cluster1-placement
